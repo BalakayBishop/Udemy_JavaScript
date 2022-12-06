@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Basics/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Basics/operators.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Basics/syntax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Basics/vars and data types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Basics/Coding Task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Basics/conditionals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Basics/type_coercion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Intermediate/arrays.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Intermediate/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Intermediate/objects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +56,17 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.operators.js">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy - JavaScript/JS Basics/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.arrays.js">
+    <configuration name="Coding Task.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Basics/Coding Task.js" working-dir="$PROJECT_DIR$/JS Basics">
+      <method v="2" />
+    </configuration>
+    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/arrays.js" working-dir="$PROJECT_DIR$/JS Intermediate">
+      <method v="2" />
+    </configuration>
+    <configuration name="functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/functions.js" working-dir="$PROJECT_DIR$/JS Intermediate">
       <method v="2" />
     </configuration>
     <configuration name="operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Basics/operators.js" working-dir="$PROJECT_DIR$/JS Basics">
-      <method v="2" />
-    </configuration>
-    <configuration name="syntax.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Basics/syntax.js" working-dir="$PROJECT_DIR$/JS Basics">
       <method v="2" />
     </configuration>
     <configuration name="vars and data types.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Basics/vars and data types.js" working-dir="$PROJECT_DIR$/JS Basics">
@@ -90,10 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.arrays.js" />
+        <item itemvalue="Node.js.functions.js" />
+        <item itemvalue="Node.js.Coding Task.js" />
         <item itemvalue="Node.js.operators.js" />
         <item itemvalue="Node.js.vars and data types.js" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Node.js.syntax.js" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +114,7 @@
       <updated>1670282293216</updated>
       <workItem from="1670282299808" duration="501000" />
       <workItem from="1670282812306" duration="4327000" />
+      <workItem from="1670346759041" duration="5246000" />
     </task>
     <servers />
   </component>
