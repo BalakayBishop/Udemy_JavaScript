@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JS Basics/Coding Task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Basics/conditionals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Basics/type_coercion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Intermediate/arrays.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Intermediate/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS Intermediate/objects.js" afterDir="false" />
+    <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully">
+      <change afterPath="$PROJECT_DIR$/JS BTS/behindTheScenes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,36 +35,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Udemy - JavaScript&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.HTML&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Projects/Udemy - JavaScript",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JSON",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Node.js.arrays.js">
-    <configuration name="Coding Task.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Basics/Coding Task.js" working-dir="$PROJECT_DIR$/JS Basics">
-      <method v="2" />
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Node.js.behindTheScenes.js">
     <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/arrays.js" working-dir="$PROJECT_DIR$/JS Intermediate">
       <method v="2" />
     </configuration>
+    <configuration name="behindTheScenes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS BTS/behindTheScenes.js" working-dir="$PROJECT_DIR$/JS BTS">
+      <method v="2" />
+    </configuration>
+    <configuration name="codingTask2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/codingTask2.js" working-dir="$PROJECT_DIR$/JS Intermediate">
+      <method v="2" />
+    </configuration>
+    <configuration name="date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/date.js" working-dir="$PROJECT_DIR$/JS Intermediate">
+      <method v="2" />
+    </configuration>
     <configuration name="functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/functions.js" working-dir="$PROJECT_DIR$/JS Intermediate">
-      <method v="2" />
-    </configuration>
-    <configuration name="operators.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Basics/operators.js" working-dir="$PROJECT_DIR$/JS Basics">
-      <method v="2" />
-    </configuration>
-    <configuration name="vars and data types.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Basics/vars and data types.js" working-dir="$PROJECT_DIR$/JS Basics">
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -96,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.behindTheScenes.js" />
+        <item itemvalue="Node.js.codingTask2.js" />
+        <item itemvalue="Node.js.date.js" />
         <item itemvalue="Node.js.arrays.js" />
         <item itemvalue="Node.js.functions.js" />
-        <item itemvalue="Node.js.Coding Task.js" />
-        <item itemvalue="Node.js.operators.js" />
-        <item itemvalue="Node.js.vars and data types.js" />
       </list>
     </recent_temporary>
   </component>
@@ -114,8 +109,23 @@
       <updated>1670282293216</updated>
       <workItem from="1670282299808" duration="501000" />
       <workItem from="1670282812306" duration="4327000" />
-      <workItem from="1670346759041" duration="5246000" />
+      <workItem from="1670346759041" duration="20356000" />
     </task>
+    <task id="LOCAL-00001" summary="Local: examples of Object Ctor Notation and Object Literal Notation, using functions inside of objects, calling the object functions with parameters, and how to use an object inside an object function">
+      <created>1670359550087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670359550087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully">
+      <created>1670363657348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670363657348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,5 +141,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Local: examples of Object Ctor Notation and Object Literal Notation, using functions inside of objects, calling the object functions with parameters, and how to use an object inside an object function" />
+    <MESSAGE value="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully" />
+    <option name="LAST_COMMIT_MESSAGE" value="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully" />
   </component>
 </project>
