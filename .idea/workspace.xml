@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="Local:">
-      <change afterPath="$PROJECT_DIR$/JS DOM/codingTask_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/intro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS DOM/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS Advanced/advanced.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,27 +35,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Projects/Udemy - JavaScript",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projects/Udemy - JavaScript&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JavaScript&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+}</component>
+  <component name="RunManager" selected="Node.js.advanced.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy - JavaScript/JS DOM/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/arrays.js" working-dir="$PROJECT_DIR$/JS Intermediate">
+    <configuration name="advanced.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/advanced.js" working-dir="$PROJECT_DIR$/JS Advanced">
       <method v="2" />
     </configuration>
     <configuration name="behindTheScenes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS BTS/behindTheScenes.js" working-dir="$PROJECT_DIR$/JS BTS">
@@ -102,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.advanced.js" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.behindTheScenes.js" />
         <item itemvalue="Node.js.codingTask2.js" />
         <item itemvalue="Node.js.date.js" />
-        <item itemvalue="Node.js.arrays.js" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +113,8 @@
       <workItem from="1670519662836" duration="44000" />
       <workItem from="1670620449223" duration="187000" />
       <workItem from="1670621453624" duration="700000" />
-      <workItem from="1670865148046" duration="20728000" />
+      <workItem from="1670865148046" duration="22013000" />
+      <workItem from="1670951581617" duration="8471000" />
     </task>
     <task id="LOCAL-00001" summary="Local: examples of Object Ctor Notation and Object Literal Notation, using functions inside of objects, calling the object functions with parameters, and how to use an object inside an object function">
       <created>1670359550087</created>
@@ -154,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670433827401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Local: learned DOM to select and manipulate single and multiple elements, learned events through listeners, and completed Coding Task 3">
+      <created>1670892996639</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670892996639</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +173,7 @@
     <MESSAGE value="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully" />
     <MESSAGE value="Local: learned about Global Execution, Execution Stack, Scope, Hoisting, how objects and primitives behave, and the 'this' keyword." />
     <MESSAGE value="Local: committing workspace xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Local: committing workspace xml file" />
+    <MESSAGE value="Local: learned DOM to select and manipulate single and multiple elements, learned events through listeners, and completed Coding Task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Local: learned DOM to select and manipulate single and multiple elements, learned events through listeners, and completed Coding Task 3" />
   </component>
 </project>
