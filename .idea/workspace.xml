@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully">
-      <change afterPath="$PROJECT_DIR$/JS BTS/behindTheScenes.js" afterDir="false" />
+    <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="Local:">
+      <change afterPath="$PROJECT_DIR$/JS DOM/codingTask_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/intro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS DOM/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +58,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.JSON",
+    "settings.editor.selected.configurable": "preferences.sourceCode.JavaScript",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Node.js.behindTheScenes.js">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy - JavaScript/JS DOM/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="arrays.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/arrays.js" working-dir="$PROJECT_DIR$/JS Intermediate">
       <method v="2" />
     </configuration>
@@ -62,9 +76,6 @@
       <method v="2" />
     </configuration>
     <configuration name="date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/date.js" working-dir="$PROJECT_DIR$/JS Intermediate">
-      <method v="2" />
-    </configuration>
-    <configuration name="functions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/functions.js" working-dir="$PROJECT_DIR$/JS Intermediate">
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -91,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.behindTheScenes.js" />
         <item itemvalue="Node.js.codingTask2.js" />
         <item itemvalue="Node.js.date.js" />
         <item itemvalue="Node.js.arrays.js" />
-        <item itemvalue="Node.js.functions.js" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +120,11 @@
       <updated>1670282293216</updated>
       <workItem from="1670282299808" duration="501000" />
       <workItem from="1670282812306" duration="4327000" />
-      <workItem from="1670346759041" duration="20356000" />
+      <workItem from="1670346759041" duration="23275000" />
+      <workItem from="1670519662836" duration="44000" />
+      <workItem from="1670620449223" duration="187000" />
+      <workItem from="1670621453624" duration="700000" />
+      <workItem from="1670865148046" duration="20728000" />
     </task>
     <task id="LOCAL-00001" summary="Local: examples of Object Ctor Notation and Object Literal Notation, using functions inside of objects, calling the object functions with parameters, and how to use an object inside an object function">
       <created>1670359550087</created>
@@ -125,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670363657348</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Local: learned about Global Execution, Execution Stack, Scope, Hoisting, how objects and primitives behave, and the 'this' keyword.">
+      <created>1670433804872</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670433804872</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Local: committing workspace xml file">
+      <created>1670433827401</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670433827401</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +174,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Local: examples of Object Ctor Notation and Object Literal Notation, using functions inside of objects, calling the object functions with parameters, and how to use an object inside an object function" />
     <MESSAGE value="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully" />
-    <option name="LAST_COMMIT_MESSAGE" value="Local: learned loops, date object, created a digital clock in HTML with DOM, completed coding task 2 successfully" />
+    <MESSAGE value="Local: learned about Global Execution, Execution Stack, Scope, Hoisting, how objects and primitives behave, and the 'this' keyword." />
+    <MESSAGE value="Local: committing workspace xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Local: committing workspace xml file" />
   </component>
 </project>
