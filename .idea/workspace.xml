@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="Local:">
-      <change afterPath="$PROJECT_DIR$/JS Advanced/advanced.js" afterDir="false" />
+    <list default="true" id="f2ec4c3c-2b53-4873-987a-beb1bfefcce2" name="Changes" comment="Local: simple tutorial of JSON and JS object">
+      <change afterPath="$PROJECT_DIR$/JSON/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/users.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON/json.js" beforeDir="false" afterPath="$PROJECT_DIR$/JSON/json.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +53,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Node.js.advanced.js">
+  <component name="RunManager" selected="Node.js.ajax.js">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Udemy - JavaScript/JS DOM/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="advanced.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Advanced/advanced.js" working-dir="$PROJECT_DIR$/JS Advanced">
       <method v="2" />
     </configuration>
+    <configuration name="ajax.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JSON/ajax.js" working-dir="$PROJECT_DIR$/JSON">
+      <method v="2" />
+    </configuration>
     <configuration name="behindTheScenes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS BTS/behindTheScenes.js" working-dir="$PROJECT_DIR$/JS BTS">
       <method v="2" />
     </configuration>
-    <configuration name="codingTask2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/codingTask2.js" working-dir="$PROJECT_DIR$/JS Intermediate">
-      <method v="2" />
-    </configuration>
-    <configuration name="date.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JS Intermediate/date.js" working-dir="$PROJECT_DIR$/JS Intermediate">
+    <configuration name="json.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JSON/json.js" working-dir="$PROJECT_DIR$/JSON">
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -91,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.ajax.js" />
+        <item itemvalue="Node.js.json.js" />
         <item itemvalue="Node.js.advanced.js" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Node.js.behindTheScenes.js" />
-        <item itemvalue="Node.js.codingTask2.js" />
-        <item itemvalue="Node.js.date.js" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +116,7 @@
       <workItem from="1670620449223" duration="187000" />
       <workItem from="1670621453624" duration="700000" />
       <workItem from="1670865148046" duration="22013000" />
-      <workItem from="1670951581617" duration="8471000" />
+      <workItem from="1670951581617" duration="10247000" />
     </task>
     <task id="LOCAL-00001" summary="Local: examples of Object Ctor Notation and Object Literal Notation, using functions inside of objects, calling the object functions with parameters, and how to use an object inside an object function">
       <created>1670359550087</created>
@@ -151,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670892996639</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Local: learned advanced JS topics for objects, object prototypes, IIFE functions, and apply call and bind methods">
+      <created>1670968521472</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670968521472</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Local: simple tutorial of JSON and JS object">
+      <created>1670969110578</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670969110578</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +190,8 @@
     <MESSAGE value="Local: learned about Global Execution, Execution Stack, Scope, Hoisting, how objects and primitives behave, and the 'this' keyword." />
     <MESSAGE value="Local: committing workspace xml file" />
     <MESSAGE value="Local: learned DOM to select and manipulate single and multiple elements, learned events through listeners, and completed Coding Task 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Local: learned DOM to select and manipulate single and multiple elements, learned events through listeners, and completed Coding Task 3" />
+    <MESSAGE value="Local: learned advanced JS topics for objects, object prototypes, IIFE functions, and apply call and bind methods" />
+    <MESSAGE value="Local: simple tutorial of JSON and JS object" />
+    <option name="LAST_COMMIT_MESSAGE" value="Local: simple tutorial of JSON and JS object" />
   </component>
 </project>

@@ -30,14 +30,3 @@ let newObj = '{"name": "John","age": 27,"married": true,"childrenNames": ["Jane"
 let newData = JSON.parse(newObj)
 
 console.log(newData)
-
-
-
-
-
-
-
-
-
-
-
